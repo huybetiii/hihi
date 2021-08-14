@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho hy <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Hy biết mà 🥰. Yêu iêm  nhiều nhiều 😘😘',
-    messDesc: 'Tối nay thứ bery ib thâu đêm nhóoooo.',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc: 'Tối nay thứ bảy ib thâu đêm nhóoooo.',
+    btnAccept: 'Okiiiii lun iu hy <3',
     messLink: 'https://www.messenger.com/t/zyguhy' 
 }
